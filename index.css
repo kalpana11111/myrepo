@@ -1,0 +1,35 @@
+.container{
+    width:1400px;
+}
+.carousel-inner1{
+    height: 75%;
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+.body{
+    font-family: 'Lato', sans-serif;
+}
+.para1{
+    padding: 32px 0px 0px 80px;
+    color: black;
+    font-size: 34px;
+
+}
+.footer{
+    background-color: black;
+    color: white;
+}
+.f1{
+    width: 940px;
+
+}
+.nav{
+    color: black;
+              font-size: 30px;
+              font-weight: 600;
+}
+.me-2 {
+    margin-right: 29.5rem!important;
+    width: 50%;
+}
